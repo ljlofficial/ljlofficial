@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi,I am LJL 👋
 
-<!--
-**ljlofficial/ljlofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About my profile picture
 
-Here are some ideas to get you started:
+- The character in my profile picture is [BanXia Su](https://zh.moegirl.org.cn/%E8%8B%8F%E5%8D%8A%E5%A4%8F)(from [Mystery Lover](https://zh.wikipedia.org/wiki/%E6%88%80%E6%84%9B%E7%B6%BA%E8%AD%9A%EF%BD%9E%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%A4%8F%E5%A4%A9%EF%BD%9E)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Me on GitHub
+
+![LJL GitHub stats](https://github-readme-stats.vercel.app/api?username=ljlofficial&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljlofficial)]
+
